@@ -1,4 +1,4 @@
-# critical-css
+# critical-css locally
 
 To run the files under css run these commands:
 ```sh
